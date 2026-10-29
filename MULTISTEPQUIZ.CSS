@@ -1,0 +1,13 @@
+.q-step { 
+    padding: 12px; 
+    background: #d8dade; 
+    border-radius: 6px; 
+}
+.hidden { 
+    display: none !important; 
+}
+.nav-btns { 
+    display: flex; 
+    gap: 8px; 
+    margin-top: 12px; 
+}
